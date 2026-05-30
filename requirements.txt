@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────────────────────
-# AP M2 — G5 | ERCP Image Classification
+# AP M2 - G5 | ERCP Image Classification
 # Testado com Python 3.10+ e CUDA 12.4/12.8
 # ──────────────────────────────────────────────────────────────
 
