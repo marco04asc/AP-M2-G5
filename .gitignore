@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+
+# pesos/modelos treinados
+*.pt
+*.pth
+*.h5
+*.keras
+*.ckpt
+*.onnx
+
+# pastas pesadas
+models/
+models_*/
+outputs*/
+results*/
+
+# python/cache
+__pycache__/
+*.pyc
+.cache/
