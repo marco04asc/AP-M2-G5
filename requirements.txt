@@ -8,10 +8,10 @@ torch>=2.6.0
 torchvision>=0.21.0
 torchaudio>=2.6.0         
 
-# MONAI (usado no notebook AP_M2_EfficientNetB0_MONAI)
+# MONAI 
 monai>=1.5.1
 
-# Modelos adicionais (timm: RegNetY, etc.)
+# Modelos adicionais (timm: RegNetY)
 timm>=1.0.0
 
 # Métricas PyTorch
