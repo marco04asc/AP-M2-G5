@@ -12,7 +12,8 @@ Classificação automática de imagens de ERCP (Colangiopancreatografia Retrógr
 ```
 AP-M2-G5/
 ├── filter_benchmark_efficientnet_b7 copy.ipynb           melhor modelo (CLAHE + geometry-aware)
-├── filter_benchmark_efficientnet_b7 copy 3.ipynb        EfficientNetV2-L sem CLAHE
+├── filter_benchmark_efficientnet_b7.ipynb 
+├── filter_benchmark_efficientnet_b7_copy_3.ipynb        EfficientNetV2-L sem CLAHE
 ├── filter_benchmark_efficientnet_v2l_scratch_fixed(2).ipynb
 ├── filter_benchmark_efficientnet_v2l_scratch_fixed(2) copy.ipynb
 ├── filter_benchmark_efficientnet_v2l_scratch_fixed(2) copy 2.ipynb
@@ -30,7 +31,8 @@ AP-M2-G5/
 ├── AP_M2_EfficientNetB0_MONAI.ipynb
 ├── final_4class_ercp_pipeline.ipynb
 ├── filter_benchmark_clahe.ipynb                         benchmark de filtros de pré-processamento
-├── EFICIENTNET.ipynb                               
+├── EFICIENTNET.ipynb
+├── EFICIENTNET_baseline_artigo.ipynb                 Valor base               
 │
 ├── requirements.txt
 └── README.md
