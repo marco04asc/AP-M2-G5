@@ -73,7 +73,7 @@ Todos os valores são **Teste Macro-F1** no conjunto de teste.
 
 | Modelo | Teste Macro-F1 | Notebook |
 |---|---|---|
-| EfficientNetV2-L com CLAHE (geometry-aware) | **0.6918** | `filter_benchmark_efficientnet_b7 copy.ipynb` |
+| EfficientNetV2-L com CLAHE (geometry-aware) | **0.6918** | `filter_benchmark_efficientnet_b7 copy.ipynb`/`filter_benchmark_efficientnet_b7.ipynb` |
 | EfficientNetV2-L com CLAHE + TTA | 0.6511 | `efficientnet_v2_l_improved.ipynb` |
 | EfficientNetV2-L com CLAHE sem TTA | 0.6485 | `efficientnet_v2_l_improved.ipynb` |
 | EfficientNetV2-L sem CLAHE (geometry-aware, from scratch) | 0.6344 | `filter_benchmark_efficientnet_v2l_scratch_fixed(2).ipynb` |
